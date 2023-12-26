@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 89.99,
+        "category": "Electronics",
+        "image": "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817607.jpg?w=740&t=st=1703598121~exp=1703598721~hmac=452ef90af1c02f8fe14460a5f065d02a9f0f07e16677fc89c52ceed34b6a26ae",
+        "brand": "Sony"
+    },
+    {
+        "id": 2,
+        "name": "Cotton T-Shirt",
+        "price": 19.99,
+        "category": "Clothing",
+        "image": "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817607.jpg?w=740&t=st=1703598121~exp=1703598721~hmac=452ef90af1c02f8fe14460a5f065d02a9f0f07e16677fc89c52ceed34b6a26ae",
+        "brand": "H&M"
+    },
+    {
+        "id": 3,
+        "name": "Smartphone",
+        "price": 549.00,
+        "category": "Electronics",
+        "image": "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817607.jpg?w=740&t=st=1703598121~exp=1703598721~hmac=452ef90af1c02f8fe14460a5f065d02a9f0f07e16677fc89c52ceed34b6a26ae",
+        "brand": "Samsung"
+    },
+    {
+        "id": 4,
+        "name": "Running Shoes",
+        "price": 79.99,
+        "category": "Footwear",
+        "image": "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817607.jpg?w=740&t=st=1703598121~exp=1703598721~hmac=452ef90af1c02f8fe14460a5f065d02a9f0f07e16677fc89c52ceed34b6a26ae",
+        "brand": "Nike"
+    },
+    {
+        "id": 5,
+        "name": "Laptop",
+        "price": 999.99,
+        "category": "Electronics",
+        "image": "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817607.jpg?w=740&t=st=1703598121~exp=1703598721~hmac=452ef90af1c02f8fe14460a5f065d02a9f0f07e16677fc89c52ceed34b6a26ae",
+        "brand": "Apple"
+    },
+    {
+        "id": 6,
+        "name": "Fancy Watch",
+        "price": 149.50,
+        "category": "Accessories",
+        "image": "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817607.jpg?w=740&t=st=1703598121~exp=1703598721~hmac=452ef90af1c02f8fe14460a5f065d02a9f0f07e16677fc89c52ceed34b6a26ae",
+        "brand": "Fossil"
+    },
+    {
+        "id": 7,
+        "name": "Leather Wallet",
+        "price": 39.95,
+        "category": "Accessories",
+        "image": "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817607.jpg?w=740&t=st=1703598121~exp=1703598721~hmac=452ef90af1c02f8fe14460a5f065d02a9f0f07e16677fc89c52ceed34b6a26ae",
+        "brand": "Calvin Klein"
+    },
+    {
+        "id": 8,
+        "name": "Gaming Console",
+        "price": 299.99,
+        "category": "Electronics",
+        "image": "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817607.jpg?w=740&t=st=1703598121~exp=1703598721~hmac=452ef90af1c02f8fe14460a5f065d02a9f0f07e16677fc89c52ceed34b6a26ae",
+        "brand": "Microsoft"
+    },
+    {
+        "id": 9,
+        "name": "Stainless Steel Water Bottle",
+        "price": 24.99,
+        "category": "Kitchen",
+        "image": "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817607.jpg?w=740&t=st=1703598121~exp=1703598721~hmac=452ef90af1c02f8fe14460a5f065d02a9f0f07e16677fc89c52ceed34b6a26ae",
+        "brand": "Contigo"
+    },
+    {
+        "id": 10,
+        "name": "Denim Jeans",
+        "price": 49.95,
+        "category": "Clothing",
+        "image": "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817607.jpg?w=740&t=st=1703598121~exp=1703598721~hmac=452ef90af1c02f8fe14460a5f065d02a9f0f07e16677fc89c52ceed34b6a26ae",
+        "brand": "Levi's"
+    }
+]
